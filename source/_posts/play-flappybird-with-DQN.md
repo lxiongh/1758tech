@@ -1,5 +1,5 @@
 ---
-title: 强化学习1分钟玩转FlappyBird
+title: 强化学习 1 分钟玩转FlappyBird
 date: 2018-07-26 12:08:57
 tags:
   - Machine Learning
