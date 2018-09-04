@@ -17,13 +17,15 @@ tags:
 利用 ALIYUN ECS 机器搭建了一个 Jupyter 平台，可以方便的在线编辑代码并进行训练，更重要的是价格还便宜。一个抢占式的实例每小时只需要0.17元。
 
 
+
 ## Gym Games
 
 ### LunarLander-v2
 
+<!--more-->
+
 {% asset_img LunarLander-v2-dqn_agent.gif lunarlander %}
 
-<!--more-->
 
 ### FlappyBird-v0
 

@@ -8,5 +8,7 @@ tags:
 
 https://github.com/lxiongh/Caffe_Windows_Detection
 
+<!--more-->
+
 {% asset_img overview.png overview %}
 

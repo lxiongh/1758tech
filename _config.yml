@@ -12,11 +12,6 @@ timezone:
 language: zh-CN
 sitemap:
   path: sitemap.xml
-lazyload:
-  enable: true
-  # className: #可选 e.g. .J-lazyload-img
-  # loadingImg: #可选 eg. ./images/loading.png
-
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'

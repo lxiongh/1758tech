@@ -10,9 +10,10 @@ Data-Driven Scene Understanding by Adaptive Exemplar Retrieval, Xionghao Liu, We
 
 > 注：ICME是多媒体计算领域的知名国际会议，被中国计算机学会(CCF)推荐为B类学术会议
 
+<!--more-->
+
 {% asset_img ICME_Demo.gif demo %}
 
-<!--more-->
 
 ## Abstract
 
