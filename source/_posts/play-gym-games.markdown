@@ -17,17 +17,14 @@ tags:
 利用 ALIYUN ECS 机器搭建了一个 Jupyter 平台，可以方便的在线编辑代码并进行训练，更重要的是价格还便宜。一个抢占式的实例每小时只需要0.17元。
 
 
+<!--more-->
 
 ## Gym Games
 
-### LunarLander-v2
-
-<!--more-->
-
-{% asset_img LunarLander-v2-dqn_agent.gif lunarlander %}
-
 
 ### FlappyBird-v0
+
+[Source Code](https://github.com/lxiongh/RL-Gym/tree/master/FlappyBird-v0)
 
 目前实现了 DQN 算法玩 FlappyBird-v0, 迭代了400+的模型能够完成 5 分钟的自主飞行。
 
@@ -37,16 +34,23 @@ tags:
 
 ### CartPole-v1
 
+
 DQN 算法迭代学习过程.
 
 {% asset_img CartPole-v1-dqn_agent.gif  cartpole %}
 
 ### LunarLander-v2
 
+[Source Code](https://github.com/lxiongh/RL-Gym/tree/master/LunarLander-v2)
+
+
 {% asset_img LunarLander-v2-dqn_agent.gif lunarlander %}
 
 
 ### Pendulum-v0
+
+[Source Code](https://github.com/lxiongh/RL-Gym/tree/master/Pendulum-v0)
+
 
 DDPG 算法实现连续动作空间的学习
 
