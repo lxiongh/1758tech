@@ -10,7 +10,7 @@ tags:
 
 ## FlappyBird
 
-[Source Code](https://github.com/lxiongh/RL-Gym/tree/master/FlappyBird-v0)
+https://github.com/lxiongh/RL-Gym/tree/master/FlappyBird-v0
 
 
 输入为根据图像提取的关键点 (鸟,拐角) 的坐标, 采用经典的 DQN 算法, 经过 380 步就已经能够收敛到比较好的结果了. 下图示例中的就是 380 迭代后的结果 (只截取了前30秒的数据, 实际持续了 5 分钟).

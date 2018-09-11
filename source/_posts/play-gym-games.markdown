@@ -24,7 +24,7 @@ tags:
 
 ### FlappyBird-v0
 
-[Source Code](https://github.com/lxiongh/RL-Gym/tree/master/FlappyBird-v0)
+https://github.com/lxiongh/RL-Gym/tree/master/FlappyBird-v0
 
 目前实现了 DQN 算法玩 FlappyBird-v0, 迭代了400+的模型能够完成 5 分钟的自主飞行。
 
@@ -34,6 +34,7 @@ tags:
 
 ### CartPole-v1
 
+https://github.com/lxiongh/RL-Gym/tree/master/CartPole-v1
 
 DQN 算法迭代学习过程.
 
@@ -41,7 +42,7 @@ DQN 算法迭代学习过程.
 
 ### LunarLander-v2
 
-[Source Code](https://github.com/lxiongh/RL-Gym/tree/master/LunarLander-v2)
+https://github.com/lxiongh/RL-Gym/tree/master/LunarLander-v2
 
 
 {% asset_img LunarLander-v2-dqn_agent.gif lunarlander %}
@@ -49,7 +50,7 @@ DQN 算法迭代学习过程.
 
 ### Pendulum-v0
 
-[Source Code](https://github.com/lxiongh/RL-Gym/tree/master/Pendulum-v0)
+https://github.com/lxiongh/RL-Gym/tree/master/Pendulum-v0
 
 
 DDPG 算法实现连续动作空间的学习
